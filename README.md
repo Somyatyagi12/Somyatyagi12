@@ -6,7 +6,7 @@
 ### 📌 About Me
 
 - 🎓 Computer Science Engineering student at **NIMS University**
-- 🔍 Interested in **Data Analysis**, **Machine Learning**, and building useful backend tools
+- 🔍 Interested in **Data Analysis**, **UI/UX Development**, and building useful frontend tools
 - 🧠 Currently working on: *Smart Farming Assistant with AI Disease Detector* 🌾🤖
 - 📊 I love exploring data with tools like **Pandas**, **Seaborn**, and **Power BI**
 - 🌱 Always learning new tech and improving my development skills
