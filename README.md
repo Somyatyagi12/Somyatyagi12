@@ -7,8 +7,7 @@
 
 - 🎓 Computer Science Engineering student at **NIMS University**
 - 🔍 Interested in **Data Analysis**, **UI/UX Development**, and building useful frontend tools
-- 🧠 Currently working on: *Smart Farming Assistant with AI Disease Detector* 🌾🤖
-- 📊 I love exploring data with tools like **Pandas**, **Seaborn**, and **Power BI**
+- 📊 I love exploring data with tools like **Pandas**, **Snowflake**, and **Power BI**
 - 🌱 Always learning new tech and improving my development skills
 
 ---
@@ -27,7 +26,7 @@
 
 ```text
 Languages   : Python, SQL, HTML, CSS, Java (Basics)
-Libraries   : Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+Libraries   : Pandas, NumPy, Matplotlib, scikit-learn
 Tools       : Jupyter Notebook, Power BI, Excel, VS Code, GitHub
 Database    : MySQL, SQLite
 Others      : REST APIs, Git, CLI
